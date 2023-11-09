@@ -8,7 +8,7 @@ Most people overestimate what they can achieve in a year and underestimate what 
 # 🔭 About me..
   - Building enterprise applications
   - AWS Certified Solutions Architect
-  - Doing a little bit of everything to deliever the project
+  - Doing a little bit of everything to deliver the project
     
     
 # 🌱 I’m currently learning ...
