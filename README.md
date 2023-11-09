@@ -1,6 +1,9 @@
 ### Hi there 👋
 
+Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years.
+
 - 🔭 I’m currently working on ...
+    
 - 🌱 I’m currently learning ...
   
 <!--
