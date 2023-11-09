@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years.%20render&fontSize=90)
 
 ### Hi there 👋
 
-Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years.
+
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
