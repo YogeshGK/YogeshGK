@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=footer&text=Most%20people%20overestimate%20what%20they%20can%20achieve%20in%20a%20year%20and%20underestimate%20what%20they%20can%20achieve%20in%20ten%20years&fontSize=12)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=footer&text=Most%20people%20overestimate%20what%20they%20can%20achieve%20in%20a%20year%20and%20underestimate%20what%20they%20can%20achieve%20in%20ten%20years&fontSize=24)
 
 ### Hi there 👋
 
