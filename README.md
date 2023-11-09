@@ -2,14 +2,16 @@
 
 Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years.
 
+https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif
+
 # 🔭 I’m currently working on ...
   - Enterprise applications
   - Backend 
   
     
 # 🌱 I’m currently learning ...
-  Statistics
-  Machine learning
+  - Statistics
+  - Machine learning
   
 <!--
 **YogeshGK/YogeshGK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
