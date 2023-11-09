@@ -2,17 +2,26 @@
 
 Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years.
 
+
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
-# 🔭 I’m currently working on ...
-  - Enterprise applications
-  - Backend 
-  
+# 🔭 About me..
+  - Building enterprise applications
+  - AWS Certified Solutions Architect
+  - Doing a little bit of everything to deliever the project
+    
     
 # 🌱 I’m currently learning ...
   - Statistics
   - Machine learning
-  
+
+# Technologies
+  - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  - ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  - ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+    
 <!--
 **YogeshGK/YogeshGK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
