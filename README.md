@@ -2,12 +2,12 @@
 
 Most people overestimate what they can achieve in a year and underestimate what they can achieve in ten years.
 
-- 🔭 I’m currently working on ...
-  Enterprise applications
-  Backend 
+# 🔭 I’m currently working on ...
+  - Enterprise applications
+  - Backend 
   
     
-- 🌱 I’m currently learning ...
+# 🌱 I’m currently learning ...
   Statistics
   Machine learning
   
